@@ -1,2 +1,3 @@
 # helloworld
-chapter 6 challenge activity
+practice
+<p>I'm a fungi</p>
